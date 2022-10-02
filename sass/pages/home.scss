@@ -1,0 +1,51 @@
+.container00 {
+    &.container01 {
+        background-image: url("../../images/narutoUnpredictable.jpg"); //image: https://wallpaperaccess.com/full/8009.jpg
+    }
+
+    &.container02 {
+        background-image: url("../../images/narutoSageMode.jpg"); //image: https://wallpaperaccess.com/full/8009.jpg
+    }
+
+    &.container03 {
+        background-image: url("../../images/narutoPain.jpg"); //image: https://wallpaperaccess.com/full/8009.jpg
+    }
+
+    &.container04 {
+        background-image: url("../../images/NarutoVsKurama.gif"); //image: https://wallpaperaccess.com/full/8009.jpg
+    }
+}
+
+.titlePadding {
+    padding-top: 200px;
+}
+
+.shortTitle {
+    width: 550px;
+    margin-bottom: -25px;
+}
+
+.mediumTitle {
+    width: 650px;
+    margin-bottom: -25px;
+}
+
+@media (max-width:750px) {
+    .titlePadding {
+        padding-top: 120px;
+    }
+
+    .shortTitle, 
+    .mediumTitle {
+        width: auto;
+        font-size: 50px;
+    }
+}
+
+@media (max-width:380px) {
+    .shortTitle,
+    .mediumTitle {
+        width: auto;
+        font-size: 40px;
+    }
+}

@@ -1,6 +1,5 @@
 # shinobiPage
 This is a bootstrap study project page,
-Since I'm in a naruto vibe, I made it with a naruto theme.
 And since i'm a naruto vibe, i'm doing a naruto themed page.
 
 Naruto logo image:

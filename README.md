@@ -20,3 +20,6 @@ https://wallpaper.dog/large/5468863.jpg
 
 Naruto vs Kyuubi video (where i got the gif):
 https://www.youtube.com/watch?v=PTsHwHNz8M8
+
+
+All Rights belong to Naruto Brand

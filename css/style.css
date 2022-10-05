@@ -118,5 +118,110 @@
 .container00.container05 {
   background-image: url("../../images/UzumakiNaruto.png");
 }
+.container00.container06 {
+  background-image: url("../../images/NarutoPNG.png");
+}
+.container00.carousel01 {
+  background-image: url("../../images/narutoCarousel01.jpg");
+}
+.container00.carousel02 {
+  background-image: url("../../images/naruto-minato-kushina.jpg");
+}
+.container00.carousel03 {
+  background-image: url("../../images/narutoSenseis.jpg");
+}
+.container00.carousel04 {
+  background-image: url("../../images/team7.jpg");
+}
+.container00.container07 {
+  background-image: url("../../images/narutoAndKurama.webp");
+}
+
+.titleNaruto {
+  font-size: 90px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 514;
+}
+
+.titleContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40vh;
+}
+
+.numbers {
+  background-color: black;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.numbers .titleNum {
+  font-size: 90px;
+}
+.numbers .subTitleNum {
+  font-size: 20px;
+}
+
+.uzumaki {
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+}
+
+.container-Naruto {
+  display: grid;
+  height: 90vh;
+  align-items: center;
+  justify-content: left;
+}
+
+#overViewPosition {
+  width: 700px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+#narutoPowersCarousel .img {
+  height: 120vh;
+}
+#narutoPowersCarousel .carouselText {
+  background-color: black;
+}
+
+@media (max-width: 810px) {
+  .uzumaki {
+    width: auto;
+  }
+  .numbers .titleNum {
+    font-size: 80px;
+  }
+  .numbers .subTitleNum {
+    font-size: 18px;
+  }
+  #overViewPosition {
+    padding-top: 20%;
+    max-width: 70%;
+  }
+}
+@media (max-width: 575px) {
+  .numbers {
+    height: 80vh;
+  }
+  #overViewPosition {
+    width: auto;
+    margin-left: auto;
+  }
+}
+@media (max-width: 435px) {
+  .titleNaruto {
+    font-size: 50px;
+  }
+  .uzumaki {
+    width: auto;
+    line-height: 35px;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */

@@ -43,4 +43,23 @@ https://media.tenor.com/hwFizLqJHUoAAAAC/naruto-sage.gif
 Naruto Kurama Mode
 https://static.wikia.nocookie.net/naruto/images/f/f7/Naruto_transforming.png/revision/latest?cb=20141026161814
 
+jinchuurikiPage01
+https://criticalhits.com.br/wp-content/uploads/2020/03/modo-s%C3%A1bio.jpg
+
+jinchuurikiPage03
+https://i.ytimg.com/vi/df1BB314fsk/maxresdefault.jpg
+
+jinchuurikiPage04
+https://comicvine.gamespot.com/a/uploads/original/11131/111318479/7323371-4536014150-44713.png
+
+jinchuurikiPage05
+https://oyster.ignimgs.com/mediawiki/apis.ign.com/naruto-shippuden-ultimate-ninja-storm-3/a/a7/Four_tailed_transformation.jpg
+
+jinchuurikiPage06
+https://i.stack.imgur.com/y3cwb.jpg
+
+jinchuurikiPage07
+https://static.wikia.nocookie.net/naruto/images/f/f7/Naruto_transforming.png/revision/latest?cb=20141026161814
+
+
 All Rights belongs to Naruto Brand

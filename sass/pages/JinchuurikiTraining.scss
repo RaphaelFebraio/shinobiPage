@@ -1,0 +1,138 @@
+.container00 {
+    &.container09 {
+        background-image: url("../../images/jinchuurikiPage01.jpg"); //https://criticalhits.com.br/wp-content/uploads/2020/03/modo-s%C3%A1bio.jpg
+    }
+
+    &.container11 {
+        background-image: url("../../images/jinchuurikiPage02.jpg"); //
+    }
+
+    &.container12 {
+        background-image: url("../../images/jinchuurikiPage03.jpg"); //https://i.ytimg.com/vi/df1BB314fsk/maxresdefault.jpg
+    }
+
+    &.container13 {
+        background-image: url("../../images/jinchuurikiPage04.png"); //https://comicvine.gamespot.com/a/uploads/original/11131/111318479/7323371-4536014150-44713.png
+    }
+
+    &.container14 {
+        background-image: url("../../images/jinchuurikiPage05.png"); //https://oyster.ignimgs.com/mediawiki/apis.ign.com/naruto-shippuden-ultimate-ninja-storm-3/a/a7/Four_tailed_transformation.jpg
+    }
+
+    &.container15 {
+        background-image: url("../../images/jinchuurikiPage06.jpg"); //https://i.stack.imgur.com/y3cwb.jpg
+    }
+
+    &.container16 {
+        background-image: url("../../images/jinchuurikiPage07.webp"); //https://static.wikia.nocookie.net/naruto/images/f/f7/Naruto_transforming.png/revision/latest?cb=20141026161814
+    }
+}
+
+.container01Content {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .titleJinchuuriki {
+        font-size: 120px;
+    }
+
+    .subtitleJinchuuriki {
+        margin-top: 20px;
+        margin-bottom: 50px;
+        font-size: 30px;
+        font-weight: 300;
+    }
+}
+
+.KyuubiDesc {
+    background-color: black;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .textKyuubiDesc {
+        color: $table-item;
+        font-weight: 400;
+        font-size: 20px;
+        width: 800px;
+    }
+}
+
+.containerRightContent {
+    margin-left: 55%;
+    padding-top: 15%;
+
+    .titleSection {
+        font-size: 60px;
+        font-weight: bold;
+    }
+
+    .subtitle {
+        font-weight: 300;
+        margin-bottom: 40px;
+    }
+}
+
+.containerLeftContent {
+    margin-left: 5%;
+    padding-top: 15%;
+
+    .titleSection {
+        font-size: 60px;
+        font-weight: bold;
+    }
+
+    .subtitle {
+        font-weight: 300;
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 600px) {
+    .KyuubiDesc {
+        .textKyuubiDesc {
+            font-size: 15px;
+        }
+    }
+
+    .container01Content {
+        .titleJinchuuriki {
+            font-size: 60px;
+        }
+    }
+}
+
+@media (max-width: 525px) {
+    .containerRightContent {
+
+        .titleSection {
+            font-size: 40px;
+        }
+    }
+}
+
+@media (max-width: 360px) {
+    .KyuubiDesc {
+        .textKyuubiDesc {
+            font-size: 12.5px;
+        }
+    }
+
+    .containerRightContent {
+
+        .titleSection {
+            font-size: 35px;
+        }
+    }
+
+    .containerLeftContent {
+
+        .titleSection {
+            font-size: 40px;
+        }
+    }
+}

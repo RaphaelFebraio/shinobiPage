@@ -72,16 +72,16 @@
   }
 }
 .container00.container01 {
-  background-image: url("../../images/narutoUnpredictable.jpg");
+  background-image: url("../../images/home01.jpg");
 }
 .container00.container02 {
-  background-image: url("../../images/narutoSageMode.jpg");
+  background-image: url("../../images/home02.jpg");
 }
 .container00.container03 {
-  background-image: url("../../images/narutoPain.jpg");
+  background-image: url("../../images/home03.jpg");
 }
 .container00.container04 {
-  background-image: url("../../images/NarutoVsKurama.gif");
+  background-image: url("../../images/home04.gif");
 }
 
 .titlePadding {
@@ -115,26 +115,129 @@
     font-size: 40px;
   }
 }
+.container00.container09 {
+  background-image: url("../../images/jinchuurikiPage01.jpg");
+}
+.container00.container11 {
+  background-image: url("../../images/jinchuurikiPage02.jpg");
+}
+.container00.container12 {
+  background-image: url("../../images/jinchuurikiPage03.jpg");
+}
+.container00.container13 {
+  background-image: url("../../images/jinchuurikiPage04.png");
+}
+.container00.container14 {
+  background-image: url("../../images/jinchuurikiPage05.png");
+}
+.container00.container15 {
+  background-image: url("../../images/jinchuurikiPage06.jpg");
+}
+.container00.container16 {
+  background-image: url("../../images/jinchuurikiPage07.webp");
+}
+
+.container01Content {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container01Content .titleJinchuuriki {
+  font-size: 120px;
+}
+.container01Content .subtitleJinchuuriki {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.KyuubiDesc {
+  background-color: black;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.KyuubiDesc .textKyuubiDesc {
+  color: #d8d8d8;
+  font-weight: 400;
+  font-size: 20px;
+  width: 800px;
+}
+
+.containerRightContent {
+  margin-left: 55%;
+  padding-top: 15%;
+}
+.containerRightContent .titleSection {
+  font-size: 60px;
+  font-weight: bold;
+}
+.containerRightContent .subtitle {
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+
+.containerLeftContent {
+  margin-left: 5%;
+  padding-top: 15%;
+}
+.containerLeftContent .titleSection {
+  font-size: 60px;
+  font-weight: bold;
+}
+.containerLeftContent .subtitle {
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 600px) {
+  .KyuubiDesc .textKyuubiDesc {
+    font-size: 15px;
+  }
+  .container01Content .titleJinchuuriki {
+    font-size: 60px;
+  }
+}
+@media (max-width: 525px) {
+  .containerRightContent .titleSection {
+    font-size: 40px;
+  }
+}
+@media (max-width: 360px) {
+  .KyuubiDesc .textKyuubiDesc {
+    font-size: 12.5px;
+  }
+  .containerRightContent .titleSection {
+    font-size: 35px;
+  }
+  .containerLeftContent .titleSection {
+    font-size: 40px;
+  }
+}
 .container00.container05 {
-  background-image: url("../../images/UzumakiNaruto.png");
+  background-image: url("../../images/naruto01.png");
 }
 .container00.container06 {
-  background-image: url("../../images/NarutoPNG.png");
+  background-image: url("../../images/naruto02.png");
 }
 .container00.carousel01 {
-  background-image: url("../../images/narutoCarousel01.jpg");
+  background-image: url("../../images/naruto03.jpg");
 }
 .container00.carousel02 {
-  background-image: url("../../images/naruto-minato-kushina.jpg");
+  background-image: url("../../images/naruto04.jpg");
 }
 .container00.carousel03 {
-  background-image: url("../../images/narutoSenseis.jpg");
+  background-image: url("../../images/naruto05.jpg");
 }
 .container00.carousel04 {
-  background-image: url("../../images/team7.jpg");
+  background-image: url("../../images/naruto06.jpg");
 }
 .container00.container07 {
-  background-image: url("../../images/narutoAndKurama.webp");
+  background-image: url("../../images/naruto07.webp");
 }
 
 .titleNaruto {
